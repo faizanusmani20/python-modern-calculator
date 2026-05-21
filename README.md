@@ -21,7 +21,7 @@ A simple command-line calculator built with Python using the modern `match-case`
 
 ---
 
-'''
+## Example:
 ==============================
       Modern Calculator 🖩
 ==============================
