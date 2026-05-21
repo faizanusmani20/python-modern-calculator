@@ -21,6 +21,7 @@ A simple command-line calculator built with Python using the modern `match-case`
 
 ---
 
+'''
 ==============================
       Modern Calculator 🖩
 ==============================
@@ -30,3 +31,4 @@ Operator '+' '-' '*' '/' '**' *
 Enter a number: 5
 
 Result = 50
+
