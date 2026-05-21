@@ -21,6 +21,10 @@ A simple command-line calculator built with Python using the modern `match-case`
 
 ---
 
+## 👨‍💻 Author
+
+Mohd Faizan Usmani 💕
+
 ## Example:
 ```
 ==============================
